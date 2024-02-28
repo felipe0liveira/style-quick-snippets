@@ -7,6 +7,7 @@ The Button component provides a customizable button element for use in React app
 ## Usage
 
 To use the Button component, import it into your React component and pass the desired content as a prop.
+<img width="1470" alt="Screenshot 2024-02-28 at 10 10 08" src="https://github.com/felipe0liveira/style-quick-snippets/assets/13547092/bc88bfcd-7d09-4ed8-8819-c8593ac4ba8b">
 
 ## Behavior
 
